@@ -43,5 +43,5 @@
 
 
 <img src="https://leetcode-badge-showc
-ase.vercel.app/api?username=Parth_27&theme=dark&border=no-border&ani
+ase.vercel.app/api?username=Parth__27&theme=dark&border=no-border&ani
 mated=true" alt="LeetCode Badges"/>
