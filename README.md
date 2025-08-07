@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parth Mehandru</h1>
 <h3 align="center">ECE Undergrad transitioning into data analytics</h3>
 
-- 🌱 I’m currently learning **R Language, DAX, Snowflake**
-
 - 👨‍💻 All of my projects are available at [https://685aff595eccb908110f170f--calm-bienenstitch-01afc1.netlify.app/](https://685aff595eccb908110f170f--calm-bienenstitch-01afc1.netlify.app/)
+- 🛠️ I work with PySpark, SQL, Power BI, and cloud platforms to build data-driven solutions
 
 - 💬 Ask me about **Data Analytics**
 
