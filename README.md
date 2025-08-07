@@ -42,5 +42,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Parth_27&theme=dark&border=no-border&ani
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Parth27&theme=dark&border=no-border&ani
 mated=true" alt="LeetCode Badges"/>
