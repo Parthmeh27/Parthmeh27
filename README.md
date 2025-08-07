@@ -2,8 +2,10 @@
 <h3 align="center">ECE Undergrad transitioning into data analytics</h3>
 
 
-- <img width="2000" height="2000" alt="octocat-1754585325505" src="https://github.com/user-attachments/assets/7ce06e94-0874-4edc-a7f8-902577de327c" />
-🛠️ I work with PySpark, SQL, Power BI, and cloud platforms to build data-driven solutions
+<img width="200" height="200" alt="octocat-1754585325505" src="https://github.com/user-attachments/assets/7ce06e94-0874-4edc-a7f8-902577de327c" />
+
+
+- 🛠️ I work with PySpark, SQL, Power BI, and cloud platforms to build data-driven solutions
 
 - 💬 Ask me about **Data Analytics**
 
