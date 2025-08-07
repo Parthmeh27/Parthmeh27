@@ -33,7 +33,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthmeh27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Parthmeh27&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Parthmeh27&title=Repositories,Experience,Commits&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Parthmeh27&limit=5&theme=radical&combine_all_yearly_contributions=true)
