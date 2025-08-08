@@ -39,3 +39,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Parthmeh27&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Parth__27&theme=dark&border=no-border&animated=true" alt="LeetCode Badges"/>
