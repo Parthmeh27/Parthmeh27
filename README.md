@@ -3,7 +3,8 @@
 </p>
 
 # About Me:
-- 🙋‍♂️I'm Parth, ECE Undergrad at PES University.
+- 🙋‍♂️ I'm Parth, ECE Undergrad at PES University.
+- 🏫 Perplexity Campus Ambassador at PES UNIVERSITY
 - 🛠️ I work with <strong>PySpark, SQL, Power BI</strong>, and cloud platforms to build data-driven solutions.
 - ⭐ 5 Star in SQL on HackerRank
 
