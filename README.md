@@ -4,9 +4,9 @@
 
 # About Me:
 - 🙋‍♂️ I'm Parth, ECE Undergrad at PES University.
-- 🏫 Perplexity Campus Ambassador at PES UNIVERSITY
 - 🛠️ I am currently working as a SAP Analyst Intern at Deloitte.
-- ⭐ 5 Star in SQL on HackerRank
+- 🏫 Perplexity Campus Ambassador at PES UNIVERSITY.
+- ⭐ 5 Star in SQL on HackerRank.
 
 
 
