@@ -5,7 +5,7 @@
 # About Me:
 - 🙋‍♂️ I'm Parth, ECE Undergrad at PES University.
 - 🏫 Perplexity Campus Ambassador at PES UNIVERSITY
-- 🛠️ I work with <strong>PySpark, SQL, Power BI</strong>, and cloud platforms to build data-driven solutions.
+- 🛠️ I am currently working as a SAP Analyst Intern at Deloitte.
 - ⭐ 5 Star in SQL on HackerRank
 
 
