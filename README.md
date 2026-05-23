@@ -13,7 +13,7 @@
 
 # 💬 Connect Online:
 
-  <a href="https://calm-bienenstitch-01afc1.netlify.app/" target="_blank">
+  <a href="https://parth27-portfolio.vercel.app/" target="_blank">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/parth01/" target="_blank">
